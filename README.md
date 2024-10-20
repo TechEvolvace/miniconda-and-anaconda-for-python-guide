@@ -22,3 +22,5 @@ Miniconda is the lightweight version of Anaconda Distribution, where it comes wi
     * Will include all commands to perform this action in Command Prompt, Microsoft Powershell, and Git Bash
 5) Deactivating a Python virtual environemnt with Conda (only when only when for a project repository does have an already existing Python virtual environment AND when you want to stop working on the project and relax)
     * Will include all commands to perform this action in Command Prompt, Microsoft Powershell, and Git Bash
+6) Project Workflow of using Anaconda Distribution or Miniconda Distribution to implement when working on any Python project 
+    * Will also include mentions of using Git and GitHub to store these Python-based projects and update them with new changes 
