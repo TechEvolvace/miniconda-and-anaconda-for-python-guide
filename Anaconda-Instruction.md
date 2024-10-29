@@ -26,3 +26,20 @@
      - **Register Anaconda as my default Python**: Recommended if you want Anaconda to be the default Python version.
      - **Clear the package cache upon completion**: Recommended for saving disk space.
    - Choose your preferences and click "Install" to start the installation.
+
+3. **Complete the Installation**:
+   - Once the installation is finished, you can choose to launch Anaconda Navigator or the Anaconda Prompt. Click "Next" and then "Finish" to close the installer.
+
+## Step 3: Verify the Installation
+
+1. **Open Anaconda Prompt**:
+   - Search for "Anaconda Prompt" in your Start menu (Windows) or use the terminal (macOS/Linux).
+
+2. **Check Anaconda Version**:
+   - In the Anaconda Prompt, type the following command:
+     ```
+     conda --version
+     ```
+      - This same command automatically works with Command Prompt and Window Powershell
+      - If configured with Git Bash by adding important paths to specific Anaconda folders into Git Bash's file `.bashrc`, then this same command can work on Git Bash too! More info on bottom of this Markdown file!
+      - You should see the installed version of Anaconda.
