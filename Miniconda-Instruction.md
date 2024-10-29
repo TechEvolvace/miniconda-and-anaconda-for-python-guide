@@ -11,7 +11,7 @@
 3. **Download the Installer**:
    - Click on the installer link to download the Miniconda installer for your system.
 
-## Step 2: Install Miniconda (Need to download Miniconda first)
+## Step 2: Install Miniconda (Only if you haven't install Miniconda yet)
 
 1. **Run the Installer**:
    - Locate the downloaded installer file (usually in your Downloads folder) and run it.
@@ -29,3 +29,15 @@
 
 3. **Complete the Installation**:
    - Once the installation is finished, you can choose to launch the Anaconda Prompt. Click "Next" and then "Finish" to close the installer.
+
+## Step 3: Verify the Installation
+
+1. **Open Command Prompt**:
+   - Search for "Command Prompt" in your Start menu.
+
+2. **Check Miniconda Version**:
+   - In the Command Prompt, type the following command:
+     ```bash
+     conda --version
+     ```
+   - You should see the installed version of Miniconda.
